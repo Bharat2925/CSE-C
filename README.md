@@ -18,3 +18,5 @@
 
 ## Links in readme file
 [click here]("www.google.com")
+# Img in Readme File
+![dhoni](dhoni.jpg)
