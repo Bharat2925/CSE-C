@@ -29,8 +29,8 @@
 |3|sidhu|CSE|345|
 # List
 ## ordered List
-1.Bharat
-2.Masthan
-3.Shanmukh
-4.Sunil
+1. Bharat
+2. Masthan
+3. Shanmukh
+4. Sunil
 
