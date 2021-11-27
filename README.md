@@ -48,3 +48,13 @@
    1. Username
    2. Mail Id
    3. Password
+   
+   
+```python
+   def hello()
+   a=10
+   b=20
+   c=40
+   if a%2==0
+   print(a+b+c)
+```
